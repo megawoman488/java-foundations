@@ -43,6 +43,7 @@ public class CatHouse {
         Cow musha = new Cow("Musha", "Brown", "Charolais" );
         System.out.println(musha.getName());
         musha.Muu(); //kjnjnjnjn
+        musha.Muu();
 
 
 
